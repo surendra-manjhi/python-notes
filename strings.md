@@ -35,3 +35,5 @@ print(greet.format(name)) // Good morning, manjhss
 len(str_var) // returns length
 
 r"man\njhss" raw str
+
+negative indexing in slicing should be start from low neg num such as [-5: -1], [-1: -5] doesn't work in this case
