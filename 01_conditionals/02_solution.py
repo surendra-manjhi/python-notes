@@ -1,3 +1,5 @@
+### Movie Ticket Pricing: price 18 (age >= 18), price 8 (child), Wednesday special discount of $2
+
 age = int(input("Enter your age: "))
 day = "Wednesday"
 
